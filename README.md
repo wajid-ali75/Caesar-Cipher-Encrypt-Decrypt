@@ -16,11 +16,6 @@ A simple web-based Caesar Cipher encryption and decryption tool built using HTML
 - CSS3
 - JavaScript (Vanilla JS)
 
-## 📷 Screenshot
-
-![App Screenshot](#)  
-*Replace `#` with an actual image link if you add a screenshot.*
-
 ## 💻 How to Use
 
 1. Clone or download the repository:
